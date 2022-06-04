@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgolang=self.webpackChunkgolang||[]).push([[634],{3769:function(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
