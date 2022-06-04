@@ -1,7 +1,7 @@
 {
-  "name": "",
-  "version": "0.0.0",
-  "private": true,
+  "name": "golang",
+  "version": "1.0.0",
+  "private": false,
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
