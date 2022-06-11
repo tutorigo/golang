@@ -14,6 +14,8 @@
   background-color: #fbfbfb;
   background-size: contain;
   color: #000;
+  -webkit-filter: invert(var(--hero-background-filter));
+  filter: invert(var(--hero-background-filter));
 }
 
 @media screen and (max-width: 996px) {
