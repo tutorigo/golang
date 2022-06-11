@@ -57,12 +57,6 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
             href: 'https://github.com/tutorigo/golang',
             label: "GitHub'da Katkıda Bulun",
             position: 'right',
