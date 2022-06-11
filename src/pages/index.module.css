@@ -12,7 +12,8 @@
   background-position: left;
   background-repeat: no-repeat;
   background-color: #fbfbfb;
-  color: #000
+  background-size: contain;
+  color: #000;
 }
 
 @media screen and (max-width: 996px) {

@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Açık Kaynaklı',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/gopher_happy.svg').default,
     description: (
       <>
         Güncel ve doğruluğun sağlanabilmesi amacıyla tüm içerikler katkıda bulunulmaya açık halde yer almaktadır.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Tüm Seviyelere Uygun',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/gopher_pink.svg').default,
     description: (
       <>
         Tüm içerikler temel ya da ileri seviyeden geliştiriciler için öğrenme ve kendini geliştirme ihtiyaçlarını karşılama amacıyla geliştirilmektedir.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Sürekli Güncel',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/gopher_star.svg').default,
     description: (
       <>
         İçerikler kendini sürekli güncelleyen yazılım dünyasında bulunan Go yeniliklerinden haberdar olunabilen yapıdadır.
