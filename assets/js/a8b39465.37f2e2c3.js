@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgolang_tutorigo_dev=self.webpackChunkgolang_tutorigo_dev||[]).push([[634],{3769:function(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
