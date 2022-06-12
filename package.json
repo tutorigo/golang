@@ -1,5 +1,6 @@
 {
-  "name": "golang",
+  "name": "golang.tutorigo.dev",
+  "license": "MIT",
   "version": "1.0.0",
   "private": false,
   "scripts": {
